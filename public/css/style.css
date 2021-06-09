@@ -1,0 +1,21 @@
+#point4{
+    width: 300px;
+    height: 150px;
+}
+
+.surprise{
+    background-image: url('../img/surprise.jpg');
+}
+
+#colorRed{
+    color: red;
+}
+
+.d-white{
+    color: white;
+}
+
+.le-p{
+    display: inline;
+}
+
